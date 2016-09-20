@@ -5,7 +5,7 @@
 <br>
 ###Introduction
 -------------------------------------------------------------
-一个方式实现UITableView的头部视图缩放
+一个方法一行代码实现UITableView的头部视图缩放
 ###Install:
 Download [FGHeaderView](https://github.com/Insfgg99x/FGHeaderView.git) and drag"FGTableHeaderView" folder  into projec.
 
@@ -16,14 +16,13 @@ tbView .fg_setHeaderView(frame: CGRect(x: 0, y: 0, width: self.view.frame.size.w
 ```
 
 ###Required:
-- iOS 10
+- iOS 8
 - Xcode 8
 - Swift 3.0
 
 ##About Me
 - Blog:     [CGPointZeero](http://cgpointzero.top)
 - GitHub:   [Insfgg99x](https://github.com/Insfgg99x)
-- Mooc:     [CGPointZero](http://www.imooc.com/u/3909164/articles)
 - Jianshu:  [CGPointZero](http://www.jianshu.com/users/c3f2e8c87dc4/latest_articles)
 - Email:    [newbox0512@yahoo.com](mailto:newbox0512@yahoo.com)
 
