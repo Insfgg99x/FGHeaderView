@@ -7,6 +7,11 @@
 -------------------------------------------------------------
 一个方法一行代码实现UITableView的头部视图缩放
 ###Install:
+- pod
+```
+pod 'FGHeaderView','~>1.0'
+```
+- Manul
 Download [FGHeaderView](https://github.com/Insfgg99x/FGHeaderView.git) and drag"FGTableHeaderView" folder  into projec.
 
 ###Useage:
